@@ -1,10 +1,10 @@
-[translation here]
+# サービス
 
 <!--original
 # Services
 -->
 
-[translation here]
+タスクやストラタジー、バイナリなどを作成する際、Rocketeerは作業を簡単にしたりアクセスするための様々なサービスを提供しています。それらの全ては公開APIとして記載されていますが、そのうちのいくつかは特に重要です。ここでは、Rocketeerが何を提供しているか見て、内部でどのように動作しているか理解していきたいと思います。
 
 <!--original
 When creating tasks, strategies, binaries, etc., Rocketeer provides you with a variety of services you can access and use to ease your work. While all of them are describe in the public API, some are more important than others. This is a look at what Rocketeer provides you with, and gives you a little more insight on how things work under the hood.
